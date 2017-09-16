@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505519494 source:c:\users\daniel\documents\github\listas-sequencial-encadeada\listas-sequencial-estatica\main.cpp
+	"Libraries.h"
+
+1505519618 c:\users\daniel\documents\github\listas-sequencial-encadeada\listas-sequencial-estatica\libraries.h
+	<iostream>
+
